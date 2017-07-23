@@ -1,0 +1,40 @@
+﻿  triangle_rast.cpp
+triangle_rast.cpp(121): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(122): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(134): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(135): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(138): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(139): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(145): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(146): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(185): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(191): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(274): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(298): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(301): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(337): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(343): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(346): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(347): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(389): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(391): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(392): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(428): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+triangle_rast.cpp(437): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  p1.vcxproj -> C:\Users\Cheryl Kung\Documents\GitHub\ecs175opengl\ECS 175\p1\Debug\p1.exe
+  p1.vcxproj -> C:\Users\Cheryl Kung\Documents\GitHub\ecs175opengl\ECS 175\p1\Debug\p1.pdb (Full PDB)
